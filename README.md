@@ -14,3 +14,5 @@ I am a passionate and experienced data scientist with a solid foundation in mach
 ⯁ Hands on knowledge on Cloud computing **Microsoft Azure, creating Virtual machines, Azure Machine Learning Designer, Azure SQL Databases, cognitive services, cognitive search, azure deployment, Kubernetes, AWS EC2, AWS S3, and AWS Lambda**.
 
 ⯁ Proficient in **Git for version control, Docker for containerization, CI/CD for seamless integration and deployment, Flask for web development, FastAPI for building APIs, Streamlit for creating interactive data applications, and Postman for API testing**.
+
+##### 👯 I’m looking to collaborate on - Projects which can use & utilize personalized data to solve real-life problems.
