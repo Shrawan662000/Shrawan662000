@@ -11,7 +11,8 @@ I am a passionate and experienced data scientist with a solid foundation in mach
 
 ⯁ Hands-on experience with **Generative AI**, **Langchain**, **prompt engineering**, and proficiency in leveraging large language models, including **Bert, GPT-3/4, RAG, Liama2**.
 
-⯁ Hands on knowledge on Cloud computing **Microsoft Azure**  <img src="https://github.com/Shrawan662000/Shrawan662000/assets/71877222/88fd441a-b3d7-452c-86a5-ce193cebb0e7" alt="Azure Logo" style="height: 1em;">, creating Virtual machines, Azure Machine Learning Designer, Azure SQL Databases, cognitive services, cognitive search, azure deployment, Kubernetes, **AWS**  <img src="https://github.com/Shrawan662000/Shrawan662000/assets/71877222/b5f39597-265f-45cd-a224-4fa9e31c27f0" alt="AWS Logo" style="height: 1em;"> (AWS EC2, AWS S3, and AWS Lambda).
+⯁ Hands on knowledge on Cloud computing **Microsoft Azure**  <img src="https://github.com/Shrawan662000/Shrawan662000/assets/71877222/88fd441a-b3d7-452c-86a5-ce193cebb0e7" alt="Azure Logo" style="height: 1em;">, creating Virtual machines, Azure Machine Learning Designer, Azure SQL Databases, cognitive services, cognitive search, azure deployment, Kubernetes, **AWS**  <img src="![image](https://github.com/Shrawan662000/Shrawan662000/assets/71877222/a4ab4dea-726e-4d66-8ea7-42ec2216b05b)
+" alt="AWS Logo" style="height: 1em;"> (AWS EC2, AWS S3, and AWS Lambda).
 
 ⯁ Proficient in **Git** for version control, **Docker** for containerization, **CI/CD** for seamless integration and deployment, **Flask** for web development, **FastAPI** for building APIs, Streamlit for creating interactive data applications, and Postman for API testing.
 
