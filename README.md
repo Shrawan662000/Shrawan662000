@@ -1,7 +1,7 @@
 ## 👋 Hey everyone, I'm Shrawan, Experienced and Passionated Data Scientist®™ 👋
 
 #### Welcome to my profile😊 , I hope the studies I present will be helpful to you💪 .
-
+###                                                                                               About Me 🙋🏽‍♂️
 I am a passionate and experienced data scientist with a solid foundation in machine learning, data science, data analytics, generative AI. As an aspiring Data Scientist, I am eager to contribute my expertise in Python, Generative AI, ML, NLP, and Computer Vision to tackle real-world challenges.
 
 #### 🛠️ Key Skills and Experiences:
