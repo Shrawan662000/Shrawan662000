@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm Shrawan, Experienced and Passionated Data Scientist®™ 👋
+## 👋 Hey everyone, I'm Shrawan, Experienced and Passionate Data Scientist®™ 👋
 
 #### Welcome to my profile😊 , I hope the studies I present will be helpful to you💪 .
 ###                                                                                               About Me 🙋🏽‍♂️
